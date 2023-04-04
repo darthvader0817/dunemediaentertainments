@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
+body {
+  font-family: 'roboto';
+  margin: 0;
+}
+html {
+  box-sizing: border-box;
+}
+h1
+{
+ text-align: center;
+ color:rgb(236, 235, 235);
+ font-family:'Roboto';
+ padding-top: 25px;
+ font-weight: bold;
+}
+.about
+{
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color:rgb(25, 5, 5);
+margin-top: -15px ;
+height: 200px;
+margin-left: 8px;
+margin-right: 8px;
+}
